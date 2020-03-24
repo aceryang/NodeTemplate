@@ -1,0 +1,18 @@
+# Logs
+*.log
+npm-debug.log*
+
+# Dependency directory
+node_modules/
+
+# dotenv environment variables file
+.env
+
+# npm cache directory
+.npm
+
+# App  
+build
+
+# misc
+.DS_Store
