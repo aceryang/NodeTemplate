@@ -7,4 +7,4 @@
 `npm start`
 
 ### Open Browser
-`localhost:8888
+`localhost:8888`
