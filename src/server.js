@@ -4,7 +4,7 @@ import bodyParser from 'body-parser';
 // import router from './routes/basic_routes'; //check out routes/basic_route.js file for more info about routes
 import routes from './api';
 const app = express();
-const port = process.env.PORT || 9002;
+const port = process.env.PORT || 8888;
 
 // Middleware that transforms the raw string of req.body into json
 app.use(bodyParser.json());
